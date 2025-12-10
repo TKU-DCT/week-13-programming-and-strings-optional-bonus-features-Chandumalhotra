@@ -1,0 +1,9 @@
+CPU SUMMARY
+-----------
+All readings      : [45, 82, 77, 91, 88, 95]
+Total samples     : 6
+Average CPU       : 79.67%
+Maximum CPU       : 95%
+Minimum CPU       : 45%
+Times CPU > 80%   : 4
+Times CPU > 90%   : 2
